@@ -22,3 +22,22 @@ It's been always difficult for the nasa's mars robot to find best way to go thro
                     
     
    
+
+By taking some photo by the drone on the mars sky image processing program will be done on the machine and send the 3d map data to the robot so that it can find a better rock and shrp stone free route to explore.
+
+![drone for mapping](https://cloud.githubusercontent.com/assets/11449967/24722562/fd7f3544-1a65-11e7-962e-b7f7c441a9f5.jpg)
+                           
+                           Picture: drone taking photo of the ground serface
+
+
+Image processing in C++ program will turn the pictures in a 3d mesh that has the clear 3d map and also have the info about the whwre the large rock exsist or not.
+
+![mars-surface-3d-model-max-fbx](https://cloud.githubusercontent.com/assets/11449967/24722649/5968b1fa-1a66-11e7-8262-eb786b1852ca.jpg)
+
+                                            Picture: Process 3d mesh map image of the mars serface 
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
