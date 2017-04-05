@@ -15,7 +15,7 @@ It's been always difficult for the nasa's mars robot to find best way to go thro
 
 
 ![curiosity-left-front-wheel-sol713](https://cloud.githubusercontent.com/assets/11449967/24721817/4dc94dee-1a63-11e7-92e2-5ea1b28fca2f.jpg)
-
+![curiosity-sol-490-wheel-aa_ken-kremer](https://cloud.githubusercontent.com/assets/11449967/24722118/52d80220-1a64-11e7-92e8-abe19db5e637.jpg)
 
                     Curiosity rover is having wheel problems for pyramid-shaped rocks embedded in hard ground.
                     
